@@ -1,0 +1,15 @@
+<div class="container">
+  <img src="assets/images/post-logo.png" alt="" />
+  <div class="title">
+    <h2>{{ post.title }}</h2>
+    <p class="subtitle">{{ post.author.nickname }}</p>
+  </div>
+  <p class="description">
+    {{ post.description }}
+  </p>
+  <div class="categories">
+    <ng-container *ngFor="let category of post.categories">
+      <app-news-button [text]="category.categoryName"></app-news-button>
+    </ng-container>
+  </div>
+</div>

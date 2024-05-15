@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  .margin {
+    margin: 10px 0;
+  }
+}

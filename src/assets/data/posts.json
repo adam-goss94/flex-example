@@ -1,0 +1,328 @@
+{
+  "mainPagePosts": {
+    "content": [
+      {
+        "creationDate": "2024-05-08T13:13:40",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 2,
+            "categoryName": "Changelog",
+            "categorySlug": "changelog"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "ogromne-zmiany-patronite",
+        "title": "Ogromne zmiany & Patronite",
+        "description": "Powoli wdrażam ogromne ulepszenia systemu buildów i ich list aby w końcu można było korzystać z dobrodziejstw strony w najlepszy sposób. Poznajcie szczegóły o tym jak i o patronite!",
+        "image": null
+      },
+      {
+        "creationDate": "2024-04-06T20:50:30",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 3,
+            "categoryName": "Poradnik",
+            "categorySlug": "poradnik"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "broken-helper",
+        "title": "Broken Helper",
+        "description": "Odnowiony wpis na temat BrokenHelpera - discordowego bota poświęconego przypominaniu nam o cooldownach DQ/wejściówek",
+        "image": null
+      },
+      {
+        "creationDate": "2023-10-24T02:34:31",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 3,
+            "categoryName": "Poradnik",
+            "categorySlug": "poradnik"
+          },
+          {
+            "id": 4,
+            "categoryName": "Ekwipunek",
+            "categorySlug": "ekwipunek"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "drify-najwieksza-zmiana-w-sprzecie-od-lat",
+        "title": "Drify - największa zmiana w sprzęcie od lat",
+        "description": "Nie masz pojęcia o co chodzi z drifami i co zmieniają w życiu Taernijczyka? No to czas na małą lekturę!",
+        "image": null
+      },
+      {
+        "creationDate": "2023-09-11T10:44:00",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 3,
+            "categoryName": "Poradnik",
+            "categorySlug": "poradnik"
+          },
+          {
+            "id": 5,
+            "categoryName": "Instancje",
+            "categorySlug": "instancje"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "sidraga-pada-poradnik-do-instancji-od-luinfall-a",
+        "title": "Sidraga padła & Poradnik do instancji od Luinfall'a",
+        "description": "Wraz z ubiciem Sidragi zwycięskie party zdecydowało się udostępnić graczom poradnik co do tej instancji. Za ich zgodą otrzymujecie go również tutaj.",
+        "image": null
+      },
+      {
+        "creationDate": "2023-09-01T02:16:39",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 3,
+            "categoryName": "Poradnik",
+            "categorySlug": "poradnik"
+          },
+          {
+            "id": 4,
+            "categoryName": "Ekwipunek",
+            "categorySlug": "ekwipunek"
+          },
+          {
+            "id": 5,
+            "categoryName": "Instancje",
+            "categorySlug": "instancje"
+          },
+          {
+            "id": 6,
+            "categoryName": "Broken Ranks News",
+            "categorySlug": "broken-ranks-news"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "orby-nadchodza-nieco-skomplikowane-ale-za-to-jakie-dobre",
+        "title": "Orby nadchodzą - nieco skomplikowane ale za to jakie dobre!",
+        "description": "Orby to zarazem jedna z ostatnich i najbardziej pogmatwanych aktualizacji związanych z reformą sprzętu. Tutaj przedaktualizacyjnie dowiecie się o co z nimi chodzi w ogromnym skrócie wraz z przeklejonymi wpisami ekipy na discordzie.",
+        "image": null
+      },
+      {
+        "creationDate": "2023-08-24T00:56:19",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 2,
+            "categoryName": "Changelog",
+            "categorySlug": "changelog"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "symulator-ulepszen-lista-rarow-sugestie-update-beta-1-03",
+        "title": "Symulator ulepszeń - Lista rarów - Sugestie Update beta 1.03",
+        "description": "Przed dłuższy czas pedia dostawała po troszeczku aktualizacje. Jedna druga trzecia... było ich sporo - czas na ich podsumowanie!",
+        "image": null
+      },
+      {
+        "creationDate": "2023-08-06T17:24:35",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 7,
+            "categoryName": "Event Broken Ranks",
+            "categorySlug": "event-broken-ranks"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "event-na-zakonczenie-wakacji-2023",
+        "title": "Event na zakończenie wakacji 2023",
+        "description": "Szybkie info na temat eventu, który zaczyna się 18 sierpnia.",
+        "image": null
+      },
+      {
+        "creationDate": "2023-07-22T22:45:17",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 5,
+            "categoryName": "Instancje",
+            "categorySlug": "instancje"
+          },
+          {
+            "id": 6,
+            "categoryName": "Broken Ranks News",
+            "categorySlug": "broken-ranks-news"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "kolejne-poziomy-instancji-zmiany-w-admirale-jaskoce-i-usprawnienia-aktualizacja-br-6-30",
+        "title": "Kolejne poziomy instancji, zmiany w Admirale + Jaskółce i usprawnienia - Aktualizacja BR 6.30",
+        "description": "Skondensowana wiedza na temat nadchodzącej aktualizacji wraz ze smaczkami z oficjalnego discorda Broken Ranks!",
+        "image": null
+      },
+      {
+        "creationDate": "2023-07-18T12:15:59",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 2,
+            "categoryName": "Changelog",
+            "categorySlug": "changelog"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "opisy-skilli-w-kalkulatorze-buildow-i-plany-co-dalej-update-beta-1-02",
+        "title": "Opisy skilli w kalkulatorze buildów i plany co dalej - Update Beta 1.02",
+        "description": "Skille w kalkulatorze uzyskały lub właśnie uzyskują swoje opisy i odzwierciedlają to co widzimy w grze. Już nie będzie konieczności przeklikiwania okienek aby sprawdzić opis skilla, jego wzór czy ile wiedzy wymaga jego trudność na danym poziomie!",
+        "image": null
+      },
+      {
+        "creationDate": "2023-07-04T11:10:24",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 2,
+            "categoryName": "Changelog",
+            "categorySlug": "changelog"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "kalkulator-odamkow-update-beta-1-01",
+        "title": "Kalkulator odłamków! - Update Beta 1.01",
+        "description": "Nadeszły kolejne istotne zmiany dzięki którym pedia staje się co raz bardziej przyjaznym narzędziem podczas gry w Broken Ranks'a! :D",
+        "image": null
+      },
+      {
+        "creationDate": "2023-06-30T10:58:06",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 3,
+            "categoryName": "Poradnik",
+            "categorySlug": "poradnik"
+          },
+          {
+            "id": 5,
+            "categoryName": "Instancje",
+            "categorySlug": "instancje"
+          },
+          {
+            "id": 6,
+            "categoryName": "Broken Ranks News",
+            "categorySlug": "broken-ranks-news"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "poziomy-trudnosci-instancji-zbawienie-graczy-solo",
+        "title": "Poziomy trudności instancji - zbawienie graczy solo!",
+        "description": "Poziomy trudności instancji dały nam wiele nowych możliwości. Są to między innymi dodatkowe miejsca do solo/duo farmy, możliwość grania zupełnie solo na małych i średnich poziomach, nowe formy zarobku czy możliwość zbierania odłamków do inkrustracji.",
+        "image": null
+      },
+      {
+        "creationDate": "2023-06-30T08:54:20",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 3,
+            "categoryName": "Poradnik",
+            "categorySlug": "poradnik"
+          },
+          {
+            "id": 4,
+            "categoryName": "Ekwipunek",
+            "categorySlug": "ekwipunek"
+          },
+          {
+            "id": 6,
+            "categoryName": "Broken Ranks News",
+            "categorySlug": "broken-ranks-news"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "inkrustracja-sprzetu-zabawka-dla-maluchow-koniecznosc-dla-meta-buildow",
+        "title": "Inkrustacja sprzętu - zabawka dla maluchów konieczność dla meta buildów",
+        "description": "Wszystko co musisz wiedzieć na temat inkrustacji sprzętu, rozbijania innych rarów/setów/syngów na odłamki (shardy) oraz przekuwaniu co by staty fajnie rozdało na itemku kiedy gwiazdeczki już siedzą.",
+        "image": null
+      },
+      {
+        "creationDate": "2023-06-27T10:16:33",
+        "lastUpdateDate": null,
+        "categories": [
+          {
+            "id": 2,
+            "categoryName": "Changelog",
+            "categorySlug": "changelog"
+          }
+        ],
+        "author": {
+          "uuid": "04f6aa36-3c21-432e-ba58-1a17ad1c7b97",
+          "nickname": "Galajus"
+        },
+        "slug": "brokenpedia-wchodzi-na-nowy-poziom",
+        "title": "BrokenPedia wchodzi na nowy poziom!",
+        "description": "BrokenPedia po tygodniach mojego ciężkiego kodzienia i nauki wszystkiego co się da aby to działało uzyskała w końcu więcej mocy!",
+        "image": null
+      }
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 60,
+      "sort": {
+        "empty": false,
+        "sorted": true,
+        "unsorted": false
+      },
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "totalElements": 13,
+    "totalPages": 1,
+    "last": true,
+    "size": 60,
+    "number": 0,
+    "sort": {
+      "empty": false,
+      "sorted": true,
+      "unsorted": false
+    },
+    "numberOfElements": 13,
+    "first": true,
+    "empty": false
+  }
+}

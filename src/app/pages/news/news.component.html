@@ -1,0 +1,5 @@
+<div *ngIf="posts && posts.length > 0" class="container">
+  <ng-container *ngFor="let post of posts">
+    <app-news-card [post]="post" class="margin"></app-news-card>
+  </ng-container>
+</div>
