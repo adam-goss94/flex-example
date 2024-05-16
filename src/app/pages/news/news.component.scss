@@ -1,3 +1,5 @@
+@import "../../mixins.scss";
+
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -5,5 +7,25 @@
 
   .margin {
     margin: 10px 0;
+  }
+}
+
+.mixin {
+  &-default {
+    @include flex-center;
+    color: white;
+
+    & > div {
+      margin: 5px;
+    }
+  }
+
+  &-random {
+    @include flex-center(flex-end, flex-end);
+    color: red;
+
+    & > div {
+      margin: 5px;
+    }
   }
 }
